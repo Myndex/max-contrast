@@ -28,6 +28,6 @@ This is part of the [APCA contrast project](https://github.com/Myndex/SAPC-APCA)
 - [ColorParsley](https://github.com/Myndex/colorparsley) lightweight micro-library for parsing colors
 
 
-This is modified AGPL 3.
+License is modified AGPL 3.
 
 
