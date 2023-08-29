@@ -1,4 +1,4 @@
-      // ANDY'S DOWN & DIRTY FONT FLIPPER™ - returns black or white depending BG
+      // ANDY'S DOWN & DIRTY FONT FLIPPER™ 0.1.0 - returns black or white per BG
      // **  Copyright (c) 2023 by Andrew Somers  **  License: modified AGPL 3 **
     // Rs Gs Bs are 0-255 (or 00 - ff hex) sRGB values, const are SAPC 0.98G 4g
    // For purists: Yes, not the IEC piecewise, but it's fast and APCA compatible
