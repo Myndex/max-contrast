@@ -58,6 +58,9 @@ modification follow.
 
                        TERMS AND CONDITIONS
 
+i. Adjustment: this license does not confer or permit the use of any
+specific trademarks unless specifically stated.
+
   0. Definitions.
 
   "This License" refers to version 3 of the GNU Affero General Public License.
