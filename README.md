@@ -2,7 +2,7 @@
 <a href="https://git.myndex.com"><img src="https://badgen.net/badge/APCA/Resources/3300aa" alt="APCA Resources" /></a>&nbsp;
 <a href="https://github.com/Myndex/SAPC-APCA"><img src="https://badgen.net/badge/SAPC-APCA/Main Repo/db6b0b" alt="SAPC/Main Repo" /></a>&nbsp;
 <a href="https://twitter.com/MyndexResearch"><img src="https://badgen.net/badge/@/MyndexResearch?icon=twitter" alt="twitter" /></a>&nbsp;
-<a href="https://github.com/Myndex/max-contrast/blob/master/LICENSE.md"><img src="https://badgen.net/badge/license/AGPL 3?icon=github&color=BB5FD1" alt="license" /></a>&nbsp;<br>
+<a href="https://github.com/Myndex/max-contrast/blob/main/LICENSE.md"><img src="https://badgen.net/badge/license/AGPL 3?icon=github&color=BB5FD1" alt="license" /></a>&nbsp;<br>
 <a href="https://github.com/Myndex/max-contrast"><img src="https://badgen.net/github/last-commit/Myndex/max-contrast/?icon=github" alt="last commit" /></a>&nbsp;
 <a href="https://github.com/Myndex/max-contrast/src/"><img src="https://badgen.net/badge/JS/Vanilla/889900" alt="plain vanilla JS" /></a>&nbsp;
 <a href="https://www.myndex.com/CVD/"><img src="https://badgen.net/badge/Color Vision/Simulator/cc0044" alt="CVD Simulator" /></a>&nbsp;
