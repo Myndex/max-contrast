@@ -24,7 +24,7 @@ This is part of the [APCA contrast project](https://github.com/Myndex/SAPC-APCA)
 
 ### Related Resources
 - [Fancy Font Flipping](https://github.com/Myndex/fancyfontflipping) experimental demonstrator showing the ideas behind this.
-- [APCA Linktree](https://linktr.ee/Myndex) Curated quick-start documentation
+- [APCA Linktree](https://linktr.ee/Myndex) Curated quick-start documentation for APCA 
 - [APCA Documentation Repo](https://github.com/Myndex/SAPC-APCA) Main APCA docs
 - [APCA Readability Criterion](https://readtech.org/ARC/) public working draft
 - [apca-w3](https://github.com/Myndex/apca-w3) public APCA for W3 and WCAG 3
