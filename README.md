@@ -31,7 +31,7 @@ This is part of the [APCA contrast project](https://github.com/Myndex/SAPC-APCA)
 - [ColorParsley](https://github.com/Myndex/colorparsley) lightweight micro-library for parsing colors
 
 
-License is modified AGPL 3.
+License is modified GNU 3.
 
 
 <img alt=" an image of mad max racing through the desert and behind them are the letters MAX and under that is the word contrast" src="img/generaltitles_MAX_CONTRAST_2.png">
