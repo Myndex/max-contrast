@@ -35,4 +35,4 @@ License is modified AGPL 3.
 
 
 <img alt=" an image of mad max racing through the desert and behind them are the letters MAX and under that is the word contrast" src="img/generaltitles_MAX_CONTRAST_2.png">
-Copyright © 2024 by Andrew Somers. All Rights Reserved.
+Copyright © 2023 by Andrew Somers. All Rights Reserved.
