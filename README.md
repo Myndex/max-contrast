@@ -15,6 +15,20 @@
 # maxContrast()
 Send it the <b>background</b> color, it returns a black or white <b>text</b> color, whichever is maximum APCA Lc value
 
+```JS
+        // Version in maxContrastArray.js
+    let color = maxContrast([0xce,0x96,0x99])
+console.log(color); // [0,0,0]
+
+```
+```JS
+
+        // Version in maxContrastString.js
+    let color = maxContrast(119,127,206) 
+console.log(color); // 'white'
+
+```
+
 This is part of the [APCA contrast project](https://github.com/Myndex/SAPC-APCA).
 
 ## Files
